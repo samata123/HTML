@@ -4,5 +4,9 @@
 <title> contains the title of the document
 <body> contains the body of the document
 <p> paragaraph
+<a> HTML links are defined with <a> tag  with href exaple prgram2:<a href="www.w3schhols> this is the link </a>
+<img> HTML images are defined with <imag> tag and The source file (src), alternative text (alt), width, and height are provided as attributes
+  <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<button> html buttons are defined with button tag ,ex:<button>Click me</button>
 
 
