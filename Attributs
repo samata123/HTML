@@ -56,4 +56,5 @@ IMPORTAnt ones are here
 </video>
 5.min and max and types=date
 <input type="date" id="" min="1">
-
+6. style :property
+<body style="background-color:powderblue;"> and <p style="text-align:center;">Centered paragraph.</p>
