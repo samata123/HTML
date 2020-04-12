@@ -1,0 +1,13 @@
+link example
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+html link
+</title>
+</head>
+<body>
+<a href="https://www.w3schools.com/html/html_basic.asp"> this is the link </a>
+</body>
+</html>
