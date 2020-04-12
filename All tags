@@ -6,6 +6,13 @@
 <p> paragaraph
   The style attribute is used to specify the styling of an element, like color, font, size etc.ex:<p style="red"></p>
 <a> HTML links are defined with <a> tag  with href exaple prgram2:<a href="www.w3schhols> this is the link </a>
+    <a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+    i)_blank - Opens the linked document in a new window or tab
+    ii)_self - Opens the linked document in the same window/tab as it was clicked (this is default)
+    iii)_parent - Opens the linked document in the parent frame
+    iv)_top - Opens the linked document in the full body of the window
+    v)framename - Opens the linked document in a named frame
+    
 <img> HTML images are defined with <imag> tag and The source file (src), alternative text (alt), width, and height are provided as attributes
   <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
   The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains
