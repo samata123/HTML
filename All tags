@@ -8,5 +8,10 @@
 <img> HTML images are defined with <imag> tag and The source file (src), alternative text (alt), width, and height are provided as attributes
   <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
 <button> html buttons are defined with button tag ,ex:<button>Click me</button>
+HTML Lists
+HTML lists are defined with the 
+<ul> (unordered/bullet list)
+<ol> (ordered/numbered list) tag,
+<li> tags (list items)
 
 
