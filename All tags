@@ -1,17 +1,23 @@
 <!DOCTYPE html> describes the document to be done in html5
-<html> root of the document
+<html> root of the document and The language is declared with the lang attribute.<html lang="en-US">
 <head> contains information about the document
 <title> contains the title of the document
 <body> contains the body of the document
 <p> paragaraph
+  The style attribute is used to specify the styling of an element, like color, font, size etc.ex:<p style="red"></p>
 <a> HTML links are defined with <a> tag  with href exaple prgram2:<a href="www.w3schhols> this is the link </a>
 <img> HTML images are defined with <imag> tag and The source file (src), alternative text (alt), width, and height are provided as attributes
   <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+  The alt attribute should reflect the image content, so users who cannot see the image gets an understanding of what the image contains
 <button> html buttons are defined with button tag ,ex:<button>Click me</button>
 HTML Lists
 HTML lists are defined with the 
 <ul> (unordered/bullet list)
 <ol> (ordered/numbered list) tag,
 <li> tags (list items)
+<br> is an empty element without a closing tag
+TITLE attribute is used as a tooltip it will display when you mouse over the paragraph
+
+
 
 
