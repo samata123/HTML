@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> html list</title>
+    </head>
+    <h1> list example</h1>
+    <ul>
+        <li>cofee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ul>
+    <ol>
+        <li>cofee</li>
+        <li>tea</li>
+        <li>milk</li>
+    </ol>
+</html>
